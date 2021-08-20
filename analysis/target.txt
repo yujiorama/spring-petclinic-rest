@@ -1,0 +1,11 @@
+GET http://127.0.0.1:8080/petclinic/api/vets
+
+GET http://127.0.0.1:8080/petclinic/api/specialties
+
+GET http://127.0.0.1:8080/petclinic/api/pettypes
+
+GET http://127.0.0.1:8080/petclinic/api/owners
+
+GET http://127.0.0.1:8080/petclinic/api/pets
+
+GET http://127.0.0.1:8080/petclinic/api/visits
